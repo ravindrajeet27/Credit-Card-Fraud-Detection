@@ -83,6 +83,6 @@ python -m streamlit run app.py
 ## Author
 
 Ravindrajeet Gautam
-
+live link : https://ravindrajeet27-credit-card-fraud-detection-app-usroav.streamlit.app/
 GitHub: https://github.com/ravindrajeet27
 LinkedIn: https://www.linkedin.com/in/ravindrajeet-gautam-a22053140/
